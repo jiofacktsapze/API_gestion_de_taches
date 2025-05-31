@@ -1,0 +1,11 @@
+/home/joelromaric/Desktop/projet spring boot/todoapp/src/main/java/com/jiofack/todoapp/models/TaskStatus.java
+/home/joelromaric/Desktop/projet spring boot/todoapp/src/main/java/com/jiofack/todoapp/exceptions/GlobalExceptionHandler.java
+/home/joelromaric/Desktop/projet spring boot/todoapp/src/main/java/com/jiofack/todoapp/models/CreateTaskRequest.java
+/home/joelromaric/Desktop/projet spring boot/todoapp/src/main/java/com/jiofack/todoapp/controller/TaskController.java
+/home/joelromaric/Desktop/projet spring boot/todoapp/src/main/java/com/jiofack/todoapp/models/Task.java
+/home/joelromaric/Desktop/projet spring boot/todoapp/src/main/java/com/jiofack/todoapp/config/SwaggerConfig.java
+/home/joelromaric/Desktop/projet spring boot/todoapp/src/main/java/com/jiofack/todoapp/services/TaskService.java
+/home/joelromaric/Desktop/projet spring boot/todoapp/src/main/java/com/jiofack/todoapp/exceptions/TaskNotFoundException.java
+/home/joelromaric/Desktop/projet spring boot/todoapp/src/main/java/com/jiofack/todoapp/repository/TaskRepository.java
+/home/joelromaric/Desktop/projet spring boot/todoapp/src/main/java/com/jiofack/todoapp/models/UpdateTaskRequest.java
+/home/joelromaric/Desktop/projet spring boot/todoapp/src/main/java/com/jiofack/todoapp/TodoappApplication.java

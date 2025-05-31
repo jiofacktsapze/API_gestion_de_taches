@@ -1,0 +1,16 @@
+Interface graphique: http://localhost:8080/swagger-ui/index.html
+
+-Requête PUT pour un updateTask
+http://localhost:8080/swagger-ui/index.html#/task-controller/updateTask
+
+-Requête DELETE pour un deleteTask
+http://localhost:8080/swagger-ui/index.html#/task-controller/deleteTask
+
+-Requête GET pour un getTasks
+http://localhost:8080/swagger-ui/index.html#/task-controller/getTasks
+
+-Requête POST pour un createTask
+http://localhost:8080/swagger-ui/index.html#/task-controller/createTask
+
+-Requête PATCH pour un updateTaskStatus
+http://localhost:8080/swagger-ui/index.html#/task-controller/updateTaskStatus
